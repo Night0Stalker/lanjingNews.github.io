@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+##蓝鲸体育资讯
+###联系方式 
+- 邮 箱：ndendi@126.com
 
-You can use the [editor on GitHub](https://github.com/Night0Stalker/lanjingNews.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Night0Stalker/lanjingNews.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###简介
+####简介
+**蓝鲸体育有最全面的赛事资讯，最准确的赛事赛程，实时更新，欢迎大家都参与进来，一起共享体育赛事
+我们提供中超、英超、NBA、CBA、网球、排球？电竞等体育赛事的相关新闻，提供最热最火的视频点播，最全面、最准确的篮球足球赛事资讯，欢迎各位使用。**
+![图1-ios-1284x2778备份](https://user-images.githubusercontent.com/19528053/174275097-7bfc8719-124e-4ef3-b749-6af53a1d6ddd.png)
+![图2-ios-1284x2778备份](https://user-images.githubusercontent.com/19528053/174275113-6c0913f8-4351-48fb-a446-ae957f5c8a1a.png)
+![图3-ios-1284x2778备份](https://user-images.githubusercontent.com/19528053/174275133-697f6222-c745-4d7f-b030-1ddaf941c010.png)
